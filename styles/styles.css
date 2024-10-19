@@ -10,6 +10,22 @@ body {
     display: inline-block;
 }
 
+.weather {
+    display: block;
+    float: left;
+    padding: 30px;
+}
+
+.map {
+    display: block;
+    margin-left: 20%;
+   }
+
+.pogoda {
+    font-family: 'Arimo';
+    font-size: 35px;
+    padding-top: 30px;
+}
 
 .logo {
     background-image: url(/images/shepelevologocolor.png);
