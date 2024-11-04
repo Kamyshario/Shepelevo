@@ -22,22 +22,18 @@ body {
 
 .pogoda {
     font-family: 'Arimo';
-    font-size: 35px;
-    padding-top: 30px;
+    font-size: 20px;
+    padding-top: 10px;
 }
 
 .logo {
-    background-image: url(/images/shepelevologocolor.png);
-    background-size: contain;
-    height: 150px;
-    width: 150px;
     margin-top: 30px;
 }
 
 h1 {
-    margin-left: 130px;
+    margin-left: 120px;
     font-family: 'Arimo';
-    font-size: 40px;
+    font-size: 35px;
     padding-top: 30px;
 
 
@@ -45,28 +41,35 @@ h1 {
 
 .placeofinterest {
     font-family: 'Arimo';
-    font-size: 35px;
+    font-size: 20px;
     padding-top: 30px;
 
 }
 
 .church {
     margin-top: 30px;
-    width: 400px;
+    width: 300px;
     border-radius: 100px;
     display: inline;
     margin: 30px;
 }
 
 .whitepond {
-    width: 400px;
+    width: 300px;
     border-radius: 100px;
     display: inline;
     margin: 30px;
 }
 
 .crocomap {
-    width: 400px;
+    width: 300px;
+    border-radius: 100px;
+    display: inline;
+    margin: 30px;
+}
+
+.gun {
+    width: 300px;
     border-radius: 100px;
     display: inline;
     margin: 30px;
@@ -78,7 +81,7 @@ h1 {
 
 .istoria {
     font-family: 'Arimo';
-    font-size: 35px;
+    font-size: 20px;
 }
 
 .firsthis {
@@ -112,6 +115,32 @@ h1 {
     padding: 20px;
     border: 1px solid;
     background-color: lemonchiffon;
+}
+
+.art {
+    font-family: 'Arimo';
+    font-size: 20px;
+    font-weight: 700px;
+}
+
+
+.artdescribe {
+    display: block;
+
+}
+
+.artdescribetext {
+    display: block;
+    float: left;
+    font-family: 'Arimo';
+    padding: 20px;
+    border: 1px solid;
+    background-color: lemonchiffon;
+}
+
+.picofshepelevo {
+    display: block;
+
 }
 
 
